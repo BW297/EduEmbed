@@ -1,0 +1,609 @@
+concept is Congruent Triangles, accuracy is 0.5483870967741935
+concept is System of Linear Inequalities in One Variable, accuracy is 0.4897959183673469
+concept is Similar Triangles, accuracy is 1.0
+concept is Inverse Proportionality Function, accuracy is 0.7974683544303798
+concept is Angle, accuracy is 0.14893617021276595
+concept is Circle, accuracy is 0.95
+concept is Similar Triangles, accuracy is 0.9152542372881356
+concept is Fraction, accuracy is 0.24
+concept is Axial Symmetry, accuracy is 0.5
+concept is Fraction, accuracy is 0.4482758620689655
+concept is Rectangular Coordinate System, accuracy is 0.25
+concept is Application of Quadratic Equation in One Variable, accuracy is 0.8095238095238095
+concept is Triangle, accuracy is 0.7058823529411765
+concept is Integral Expressions, accuracy is 0.5059523809523809
+concept is Quadratic Radical Equation, accuracy is 0.5
+concept is Real Number, accuracy is 0.25
+concept is Rectangular Coordinate System, accuracy is 0.25
+concept is Triangle, accuracy is 1.0
+concept is Factorization, accuracy is 0.14285714285714285
+concept is Parallel Lines, accuracy is 0.13333333333333333
+concept is Rectangular Coordinate System, accuracy is 0.41935483870967744
+concept is Angle, accuracy is 0.29411764705882354
+concept is Quadratic Radical Equation, accuracy is 0.618421052631579
+concept is Rectangular Coordinate System, accuracy is 0.11764705882352941
+concept is Linear Equations in One Variable, accuracy is 0.5
+concept is Quadratic Radical Equation, accuracy is 0.29508196721311475
+concept is Linear Equations in One Variable, accuracy is 0.4275184275184275
+concept is Line Segment, accuracy is 0.6336633663366337
+concept is Straightedge and Compass Construction, accuracy is 0.5
+concept is Angle, accuracy is 0.3076923076923077
+concept is Inverse Proportionality Function, accuracy is 0.7083333333333334
+concept is Quadratic Radical Equation, accuracy is 0.39215686274509803
+concept is Rectangular Coordinate System, accuracy is 0.5714285714285714
+concept is Straightedge and Compass Construction, accuracy is 1.0
+concept is Quadratic Radical Equation, accuracy is 0.6363636363636364
+concept is Line Segment, accuracy is 0.24193548387096775
+concept is Line Segment, accuracy is 0.48717948717948717
+concept is Similar Triangles, accuracy is 0.9333333333333333
+concept is Quadratic Radical Equation, accuracy is 0.5862068965517241
+concept is System of Linear Equations in Two Variables, accuracy is 0.7540983606557377
+concept is Quadratic Radical Equation, accuracy is 0.36065573770491804
+concept is Right Triangle, accuracy is nan
+concept is Pythagorean theorem, accuracy is 0.8292682926829268
+concept is Rectangular Coordinate System, accuracy is 0.25
+concept is Factorization, accuracy is 0.07692307692307693
+concept is Parallelogram, accuracy is 0.75
+concept is Linear Function, accuracy is 0.3684210526315789
+concept is Parallelogram, accuracy is 0.4666666666666667
+concept is Quadratic Radical Equation, accuracy is 1.0
+concept is Real Number, accuracy is 1.0
+concept is System of Linear Inequalities in One Variable, accuracy is 0.5656565656565656
+concept is Quadratic Radical Equation, accuracy is 0.14666666666666667
+concept is Inverse Proportionality Function, accuracy is 0.03896103896103896
+concept is Linear Equations in One Variable, accuracy is 0.43373493975903615
+concept is Pythagorean theorem, accuracy is 0.4117647058823529
+concept is Rectangular Coordinate System, accuracy is 0.13513513513513514
+concept is Integral Expressions, accuracy is 0.37168141592920356
+concept is Circle, accuracy is 0.8571428571428571
+concept is Pythagorean theorem, accuracy is 0.11764705882352941
+concept is Factorization, accuracy is 0.25
+concept is Line Segment, accuracy is 0.5130434782608696
+concept is Multiplication of Integral Expression, accuracy is 0.28125
+concept is Linear Function, accuracy is 0.625
+concept is Geometry, accuracy is 0.8529411764705882
+concept is System of Linear Inequalities in One Variable, accuracy is 0.7096774193548387
+concept is Sampling and Data Analysis, accuracy is 0.38095238095238093
+concept is Geometry, accuracy is 0.6428571428571429
+concept is Geometry, accuracy is 0.7222222222222222
+concept is Linear Function, accuracy is 0.42857142857142855
+concept is Real Number, accuracy is 0.35135135135135137
+concept is Line Segment, accuracy is 0.828125
+concept is Parallel Lines, accuracy is 0.7582417582417582
+concept is Sampling and Data Analysis, accuracy is 0.5416666666666666
+concept is Isosceles Triangle, accuracy is 1.0
+concept is Quadratic Function, accuracy is 1.0
+concept is System of Linear Equations in Two Variables, accuracy is 0.41379310344827586
+concept is Factorization, accuracy is 0.0
+concept is Application of Quadratic Equation in One Variable, accuracy is 0.1640625
+concept is Rectangular Coordinate System, accuracy is 0.625
+concept is Fraction, accuracy is 1.0
+concept is Pythagorean theorem, accuracy is 0.375
+concept is Linear Equations in One Variable, accuracy is 0.5847255369928401
+concept is Multiplication of Integral Expression, accuracy is 0.5789473684210527
+concept is Line Segment, accuracy is 0.6216216216216216
+concept is Quadratic Radical Equation, accuracy is 0.42592592592592593
+concept is Rectangular Coordinate System, accuracy is 0.375
+concept is Pythagorean theorem, accuracy is 0.4375
+concept is Factorization, accuracy is 0.3333333333333333
+concept is Linear Function, accuracy is 0.42105263157894735
+concept is Parallel Lines, accuracy is 0.07142857142857142
+concept is Linear Function, accuracy is 0.3333333333333333
+concept is Right Triangle, accuracy is 1.0
+concept is Line Segment, accuracy is 0.37142857142857144
+concept is Integral Expressions, accuracy is 0.42613636363636365
+concept is System of Linear Inequalities in One Variable, accuracy is 0.28
+concept is Triangle, accuracy is 0.2727272727272727
+concept is Rational Number, accuracy is 0.5265700483091788
+concept is Inverse Proportionality Function, accuracy is 0.49230769230769234
+concept is Factorization, accuracy is 0.6
+concept is Integral Expressions, accuracy is 0.6623931623931624
+concept is Pythagorean theorem, accuracy is 0.27906976744186046
+concept is Integral Expressions, accuracy is 0.46195652173913043
+concept is Axial Symmetry, accuracy is 0.5
+concept is System of Linear Equations in Two Variables, accuracy is 0.3
+concept is Linear Equations in One Variable, accuracy is 0.6947368421052632
+concept is Right Triangle, accuracy is 0.75
+concept is Right Triangle, accuracy is 0.6666666666666666
+concept is Real Number, accuracy is 0.5714285714285714
+concept is Straightedge and Compass Construction, accuracy is 1.0
+concept is Application of Quadratic Equation in One Variable, accuracy is 0.7307692307692307
+concept is System of Linear Inequalities in One Variable, accuracy is 0.12222222222222222
+concept is Geometry, accuracy is 0.7564102564102564
+concept is Circle, accuracy is 1.0
+concept is Linear Equations in One Variable, accuracy is 0.6975476839237057
+concept is Isosceles Triangle, accuracy is 1.0
+concept is Real Number, accuracy is 0.5
+concept is Parallelogram, accuracy is 0.7142857142857143
+concept is Pythagorean theorem, accuracy is 0.8666666666666667
+concept is Linear Function, accuracy is 0.2328767123287671
+concept is Geometry, accuracy is 0.558974358974359
+concept is Pythagorean theorem, accuracy is 0.023255813953488372
+concept is Real Number, accuracy is 0.0
+concept is Intersecting Lines, accuracy is 0.14285714285714285
+concept is Linear Equations in One Variable, accuracy is 0.32065217391304346
+concept is Multiplication of Integral Expression, accuracy is 0.14285714285714285
+concept is Parallelogram, accuracy is 0.0
+concept is Intersecting Lines, accuracy is 0.6363636363636364
+concept is Linear Equations in One Variable, accuracy is 0.4246575342465753
+concept is Sampling and Data Analysis, accuracy is 0.0
+concept is Linear Function, accuracy is 0.5
+concept is Pythagorean theorem, accuracy is 0.11764705882352941
+concept is Linear Function, accuracy is 0.7083333333333334
+concept is Real Number, accuracy is 0.42105263157894735
+concept is Real Number, accuracy is 0.0
+concept is System of Linear Equations in Two Variables, accuracy is 0.5901639344262295
+concept is Multiplication of Integral Expression, accuracy is 0.0
+concept is Axial Symmetry, accuracy is 0.5
+concept is Axial Symmetry, accuracy is 0.5
+concept is Triangle, accuracy is 0.7142857142857143
+concept is Rational Number, accuracy is 0.5576923076923077
+concept is Parallel Lines, accuracy is 0.7282608695652174
+concept is Angle, accuracy is 0.4393939393939394
+concept is Parallelogram, accuracy is 0.3333333333333333
+concept is Integral Expressions, accuracy is 0.4342857142857143
+concept is Quadratic Radical Equation, accuracy is 0.75
+concept is Triangle, accuracy is 0.8421052631578947
+concept is Sampling and Data Analysis, accuracy is 0.43478260869565216
+concept is Axial Symmetry, accuracy is 0.5
+concept is Quadratic Radical Equation, accuracy is 0.8928571428571429
+concept is Linear Function, accuracy is 0.5833333333333334
+concept is Rational Number, accuracy is 0.7837837837837838
+concept is Rational Number, accuracy is 0.8526785714285714
+concept is Quadratic Radical Equation, accuracy is 0.5063291139240507
+concept is Parallel Lines, accuracy is 0.6818181818181818
+concept is System of Linear Inequalities in One Variable, accuracy is 0.29292929292929293
+concept is Congruent Triangles, accuracy is 0.0
+concept is System of Linear Equations in Two Variables, accuracy is 0.27586206896551724
+concept is Parallelogram, accuracy is 0.8181818181818182
+concept is Angle, accuracy is 0.3333333333333333
+concept is Linear Equations in One Variable, accuracy is 0.5798969072164949
+concept is Quadratic Radical Equation, accuracy is 0.25
+concept is Axial Symmetry, accuracy is 0.3333333333333333
+concept is Real Number, accuracy is 0.7142857142857143
+concept is Integral Expressions, accuracy is 0.8166666666666667
+concept is Rectangular Coordinate System, accuracy is 0.1891891891891892
+concept is Multiplication of Integral Expression, accuracy is 0.6363636363636364
+concept is Integral Expressions, accuracy is 0.4085106382978723
+concept is Parallel Lines, accuracy is 0.46808510638297873
+concept is Angle, accuracy is 0.15
+concept is Quadratic Radical Equation, accuracy is 0.2361111111111111
+concept is Triangle, accuracy is 0.2727272727272727
+concept is Straightedge and Compass Construction, accuracy is 1.0
+concept is Parallelogram, accuracy is 0.3076923076923077
+concept is Rational Number, accuracy is 0.6194690265486725
+concept is Parallelogram, accuracy is 0.7692307692307693
+concept is Rectangular Coordinate System, accuracy is 0.75
+concept is Linear Function, accuracy is 0.7857142857142857
+concept is Congruent Triangles, accuracy is 0.21428571428571427
+concept is Right Triangle, accuracy is 1.0
+concept is Factorization, accuracy is 0.2
+concept is System of Linear Equations in Two Variables, accuracy is 0.8548387096774194
+concept is Intersecting Lines, accuracy is 0.35714285714285715
+concept is Application of Quadratic Equation in One Variable, accuracy is 0.6590909090909091
+concept is Real Number, accuracy is 0.5
+concept is Rectangular Coordinate System, accuracy is 0.2
+concept is Real Number, accuracy is 0.8333333333333334
+concept is Fraction, accuracy is 1.0
+concept is System of Linear Equations in Two Variables, accuracy is 0.5576923076923077
+concept is Parallel Lines, accuracy is 0.5384615384615384
+concept is Rectangular Coordinate System, accuracy is 0.36363636363636365
+concept is Pythagorean theorem, accuracy is 0.38461538461538464
+concept is System of Linear Inequalities in One Variable, accuracy is 0.75
+concept is Linear Function, accuracy is 0.029411764705882353
+concept is Angle, accuracy is 0.6170212765957447
+concept is System of Linear Inequalities in One Variable, accuracy is 0.6197183098591549
+concept is Parallel Lines, accuracy is 0.7934782608695652
+concept is Geometry, accuracy is 0.33014354066985646
+concept is Intersecting Lines, accuracy is 0.23076923076923078
+concept is Similar Triangles, accuracy is 1.0
+concept is System of Linear Inequalities in One Variable, accuracy is 0.6883116883116883
+concept is Real Number, accuracy is 0.5
+concept is Integral Expressions, accuracy is 0.6277777777777778
+concept is Quadratic Radical Equation, accuracy is 0.6470588235294118
+concept is Quadratic Radical Equation, accuracy is 0.5492957746478874
+concept is Quadratic Radical Equation, accuracy is 0.8035714285714286
+concept is Triangle, accuracy is 0.2
+concept is Linear Function, accuracy is 0.23333333333333334
+concept is Intersecting Lines, accuracy is 0.06666666666666667
+concept is Rectangular Coordinate System, accuracy is 0.5714285714285714
+concept is Line Segment, accuracy is 0.625
+concept is Pythagorean theorem, accuracy is 0.35
+concept is Angle, accuracy is 0.5
+concept is Real Number, accuracy is 0.2
+concept is Parallel Lines, accuracy is 0.813953488372093
+concept is Integral Expressions, accuracy is 0.57847533632287
+concept is Pythagorean theorem, accuracy is 0.4444444444444444
+concept is Similar Triangles, accuracy is 0.66
+concept is Axial Symmetry, accuracy is 0.5
+concept is Line Segment, accuracy is 0.26865671641791045
+concept is Parallelogram, accuracy is 0.6153846153846154
+concept is Circle, accuracy is 0.9130434782608695
+concept is Fraction, accuracy is 0.8
+concept is Multiplication of Integral Expression, accuracy is 0.8
+concept is Rectangular Coordinate System, accuracy is 0.25
+concept is System of Linear Equations in Two Variables, accuracy is 0.18181818181818182
+concept is Quadratic Function, accuracy is 1.0
+concept is Linear Equations in One Variable, accuracy is 0.5212264150943396
+concept is Linear Function, accuracy is 0.7681159420289855
+concept is Multiplication of Integral Expression, accuracy is 0.47368421052631576
+concept is Rational Number, accuracy is 0.5714285714285714
+concept is Quadratic Radical Equation, accuracy is 0.4745762711864407
+concept is Similar Triangles, accuracy is 0.6326530612244898
+concept is Sampling and Data Analysis, accuracy is 0.6470588235294118
+concept is Factorization, accuracy is 0.1111111111111111
+concept is Intersecting Lines, accuracy is 0.5454545454545454
+concept is Rational Number, accuracy is 0.3538961038961039
+concept is Quadratic Radical Equation, accuracy is 0.6956521739130435
+concept is Rectangular Coordinate System, accuracy is 0.3076923076923077
+concept is Sampling and Data Analysis, accuracy is 0.5333333333333333
+concept is Fraction, accuracy is 0.6666666666666666
+concept is System of Linear Inequalities in One Variable, accuracy is 0.5251798561151079
+concept is Rational Number, accuracy is 0.7966101694915254
+concept is Circle, accuracy is 0.6190476190476191
+concept is Multiplication of Integral Expression, accuracy is 0.125
+concept is Integral Expressions, accuracy is 0.5898876404494382
+concept is Angle, accuracy is 0.05
+concept is Application of Quadratic Equation in One Variable, accuracy is 0.7307692307692307
+concept is Line Segment, accuracy is 0.3069306930693069
+concept is Geometry, accuracy is 1.0
+concept is Rectangular Coordinate System, accuracy is 0.25
+concept is Rectangular Coordinate System, accuracy is 0.5
+concept is Factorization, accuracy is 0.4
+concept is Fraction, accuracy is 1.0
+concept is Intersecting Lines, accuracy is 0.08333333333333333
+concept is Sampling and Data Analysis, accuracy is 0.23809523809523808
+concept is Parallelogram, accuracy is 0.09090909090909091
+concept is Factorization, accuracy is 0.45454545454545453
+concept is System of Linear Equations in Two Variables, accuracy is 0.1111111111111111
+concept is Linear Function, accuracy is 0.4375
+concept is Intersecting Lines, accuracy is 0.07692307692307693
+concept is System of Linear Inequalities in One Variable, accuracy is 0.532608695652174
+concept is Right Triangle, accuracy is 1.0
+concept is Fraction, accuracy is 0.15384615384615385
+concept is Linear Equations in One Variable, accuracy is 0.42391304347826086
+concept is Angle, accuracy is 0.7796610169491526
+concept is Quadratic Radical Equation, accuracy is 0.7142857142857143
+concept is Fraction, accuracy is 0.72
+concept is Right Triangle, accuracy is 1.0
+concept is Circle, accuracy is 0.9545454545454546
+concept is Line Segment, accuracy is 0.015957446808510637
+concept is Parallel Lines, accuracy is 0.5333333333333333
+concept is Integral Expressions, accuracy is 0.7407407407407407
+concept is System of Linear Equations in Two Variables, accuracy is 0.45454545454545453
+concept is Intersecting Lines, accuracy is 0.6428571428571429
+concept is Application of Quadratic Equation in One Variable, accuracy is 0.7333333333333333
+concept is Inverse Proportionality Function, accuracy is 0.463768115942029
+concept is Real Number, accuracy is 0.8125
+concept is Sampling and Data Analysis, accuracy is 0.4583333333333333
+concept is Rational Number, accuracy is 0.7777777777777778
+concept is Linear Function, accuracy is 0.5161290322580645
+concept is Linear Equations in One Variable, accuracy is 0.869942196531792
+concept is System of Linear Inequalities in One Variable, accuracy is 0.6808510638297872
+concept is Real Number, accuracy is 0.34375
+concept is Triangle, accuracy is 0.25
+concept is Rational Number, accuracy is 0.6129807692307693
+concept is Triangle, accuracy is 0.16666666666666666
+concept is Linear Equations in One Variable, accuracy is 0.5388888888888889
+concept is Rectangular Coordinate System, accuracy is 0.05714285714285714
+concept is Linear Function, accuracy is 0.5569620253164557
+concept is Pythagorean theorem, accuracy is 0.275
+concept is Linear Function, accuracy is 0.5555555555555556
+concept is Real Number, accuracy is 0.23529411764705882
+concept is Parallelogram, accuracy is 0.0625
+concept is Application of Quadratic Equation in One Variable, accuracy is 0.674074074074074
+concept is Parallelogram, accuracy is 0.5384615384615384
+concept is Integral Expressions, accuracy is 0.7158469945355191
+concept is Rectangular Coordinate System, accuracy is 0.8461538461538461
+concept is Angle, accuracy is 0.3333333333333333
+concept is Angle, accuracy is 0.1111111111111111
+concept is Angle, accuracy is 0.41379310344827586
+concept is Angle, accuracy is 0.3137254901960784
+concept is Triangle, accuracy is 0.3333333333333333
+concept is System of Linear Inequalities in One Variable, accuracy is 0.4246575342465753
+concept is Real Number, accuracy is 0.2727272727272727
+concept is Inverse Proportionality Function, accuracy is 0.6027397260273972
+concept is Triangle, accuracy is 0.868421052631579
+concept is Linear Function, accuracy is 0.875
+concept is Intersecting Lines, accuracy is 0.2857142857142857
+concept is Sampling and Data Analysis, accuracy is 0.2777777777777778
+concept is Geometry, accuracy is 0.05405405405405406
+concept is Linear Function, accuracy is 0.7777777777777778
+concept is Line Segment, accuracy is 0.2926829268292683
+concept is Line Segment, accuracy is 0.23809523809523808
+concept is Right Triangle, accuracy is 0.5
+concept is Real Number, accuracy is 0.2
+concept is Line Segment, accuracy is 0.18604651162790697
+concept is Triangle, accuracy is 0.23333333333333334
+concept is Angle, accuracy is 0.4444444444444444
+concept is Isosceles Triangle, accuracy is 1.0
+concept is Line Segment, accuracy is 0.20430107526881722
+concept is System of Linear Inequalities in One Variable, accuracy is 0.7553191489361702
+concept is Linear Function, accuracy is 0.47058823529411764
+concept is Real Number, accuracy is 0.5454545454545454
+concept is Integral Expressions, accuracy is 0.31875
+concept is System of Linear Inequalities in One Variable, accuracy is 0.6195652173913043
+concept is Pythagorean theorem, accuracy is 0.3404255319148936
+concept is Geometry, accuracy is 1.0
+concept is Integral Expressions, accuracy is 0.27906976744186046
+concept is System of Linear Equations in Two Variables, accuracy is 0.6666666666666666
+concept is Angle, accuracy is 0.3191489361702128
+concept is Sampling and Data Analysis, accuracy is 0.29411764705882354
+concept is Integral Expressions, accuracy is 0.6666666666666666
+concept is Multiplication of Integral Expression, accuracy is 0.7027027027027027
+concept is Rectangular Coordinate System, accuracy is 0.75
+concept is Real Number, accuracy is 0.4864864864864865
+concept is Rational Number, accuracy is 0.6105919003115264
+concept is System of Linear Inequalities in One Variable, accuracy is 0.3023255813953488
+concept is Real Number, accuracy is 0.09090909090909091
+concept is Rectangular Coordinate System, accuracy is 0.2777777777777778
+concept is Angle, accuracy is 0.17307692307692307
+concept is Multiplication of Integral Expression, accuracy is 0.2903225806451613
+concept is Linear Equations in One Variable, accuracy is 0.7865707434052758
+concept is Rectangular Coordinate System, accuracy is 0.2
+concept is Right Triangle, accuracy is 0.25
+concept is Pythagorean theorem, accuracy is 0.42105263157894735
+concept is Integral Expressions, accuracy is 0.6604938271604939
+concept is Congruent Triangles, accuracy is 0.7692307692307693
+concept is Integral Expressions, accuracy is 0.12154696132596685
+concept is Linear Function, accuracy is 0.8260869565217391
+concept is Inverse Proportionality Function, accuracy is 0.26865671641791045
+concept is Geometry, accuracy is 0.325
+concept is Triangle, accuracy is 0.3333333333333333
+concept is System of Linear Inequalities in One Variable, accuracy is 0.3157894736842105
+concept is Quadratic Radical Equation, accuracy is 0.559322033898305
+concept is Right Triangle, accuracy is 1.0
+concept is Parallel Lines, accuracy is 0.1
+concept is Triangle, accuracy is 1.0
+concept is Angle, accuracy is 0.34
+concept is Geometry, accuracy is 0.6091954022988506
+concept is Multiplication of Integral Expression, accuracy is 0.4444444444444444
+concept is Rectangular Coordinate System, accuracy is 0.5
+concept is Factorization, accuracy is 0.2
+concept is Pythagorean theorem, accuracy is 0.058823529411764705
+concept is Real Number, accuracy is 0.5
+concept is Parallelogram, accuracy is 0.6111111111111112
+concept is Factorization, accuracy is 0.8333333333333334
+concept is Linear Function, accuracy is 0.6027397260273972
+concept is Axial Symmetry, accuracy is 0.6666666666666666
+concept is Rational Number, accuracy is 0.9014925373134328
+concept is Triangle, accuracy is 0.7142857142857143
+concept is Factorization, accuracy is 0.09090909090909091
+concept is Factorization, accuracy is 0.07692307692307693
+concept is Factorization, accuracy is 1.0
+concept is Quadratic Radical Equation, accuracy is 0.5901639344262295
+concept is Multiplication of Integral Expression, accuracy is 0.14285714285714285
+concept is System of Linear Inequalities in One Variable, accuracy is 0.5703703703703704
+concept is Geometry, accuracy is 0.27403846153846156
+concept is Real Number, accuracy is 0.7272727272727273
+concept is Line Segment, accuracy is 0.46153846153846156
+concept is Factorization, accuracy is 0.1
+concept is Linear Function, accuracy is 0.4810126582278481
+concept is Quadratic Radical Equation, accuracy is 0.7972972972972973
+concept is Rational Number, accuracy is 0.6258823529411764
+concept is Parallel Lines, accuracy is 0.4787234042553192
+concept is Parallelogram, accuracy is 0.75
+concept is Rational Number, accuracy is 0.8258706467661692
+concept is Factorization, accuracy is 0.42857142857142855
+concept is Rational Number, accuracy is 0.42891566265060244
+concept is Angle, accuracy is 0.19047619047619047
+concept is Similar Triangles, accuracy is 0.46153846153846156
+concept is Triangle, accuracy is 1.0
+concept is Inverse Proportionality Function, accuracy is 0.7272727272727273
+concept is Pythagorean theorem, accuracy is 0.5384615384615384
+concept is Right Triangle, accuracy is 1.0
+concept is Factorization, accuracy is 0.5
+concept is Sampling and Data Analysis, accuracy is 0.19047619047619047
+concept is Fraction, accuracy is 1.0
+concept is Factorization, accuracy is 0.3333333333333333
+concept is Rectangular Coordinate System, accuracy is 0.41025641025641024
+concept is Line Segment, accuracy is 0.8018018018018018
+concept is Fraction, accuracy is 0.3181818181818182
+concept is Quadratic Radical Equation, accuracy is 0.8301886792452831
+concept is Intersecting Lines, accuracy is 0.5555555555555556
+concept is Parallelogram, accuracy is 0.7333333333333333
+concept is Angle, accuracy is 0.42105263157894735
+concept is Factorization, accuracy is 0.5
+concept is Circle, accuracy is 0.21739130434782608
+concept is Pythagorean theorem, accuracy is 0.058823529411764705
+concept is Straightedge and Compass Construction, accuracy is 1.0
+concept is Parallelogram, accuracy is 0.7777777777777778
+concept is Parallel Lines, accuracy is 0.0
+concept is Inverse Proportionality Function, accuracy is 0.3466666666666667
+concept is Line Segment, accuracy is 0.23076923076923078
+concept is Integral Expressions, accuracy is 0.375
+concept is Triangle, accuracy is 0.6666666666666666
+concept is Parallelogram, accuracy is 0.7333333333333333
+concept is Intersecting Lines, accuracy is 0.3333333333333333
+concept is Factorization, accuracy is 1.0
+concept is Sampling and Data Analysis, accuracy is 0.375
+concept is Angle, accuracy is 0.3620689655172414
+concept is Integral Expressions, accuracy is 0.34309623430962344
+concept is Isosceles Triangle, accuracy is nan
+concept is Parallel Lines, accuracy is 0.125
+concept is Quadratic Function, accuracy is 0.5
+concept is Circle, accuracy is 0.7894736842105263
+concept is Linear Equations in One Variable, accuracy is 0.7231638418079096
+concept is Fraction, accuracy is 1.0
+concept is Real Number, accuracy is 0.7647058823529411
+concept is Similar Triangles, accuracy is 1.0
+concept is Circle, accuracy is 0.84
+concept is Linear Equations in One Variable, accuracy is 0.6972972972972973
+concept is Triangle, accuracy is 0.5
+concept is Real Number, accuracy is 0.5
+concept is Linear Function, accuracy is 0.45161290322580644
+concept is Parallel Lines, accuracy is 0.25
+concept is Factorization, accuracy is 0.1111111111111111
+concept is Quadratic Radical Equation, accuracy is 0.5740740740740741
+concept is Pythagorean theorem, accuracy is 0.7391304347826086
+concept is Application of Quadratic Equation in One Variable, accuracy is 0.7867647058823529
+concept is Rectangular Coordinate System, accuracy is 0.2
+concept is Line Segment, accuracy is 0.544973544973545
+concept is Sampling and Data Analysis, accuracy is 0.5
+concept is Axial Symmetry, accuracy is 0.6666666666666666
+concept is Triangle, accuracy is 0.16666666666666666
+concept is Axial Symmetry, accuracy is 1.0
+concept is Application of Quadratic Equation in One Variable, accuracy is 0.7086614173228346
+concept is System of Linear Inequalities in One Variable, accuracy is 0.6777777777777778
+concept is Application of Quadratic Equation in One Variable, accuracy is 0.8095238095238095
+concept is Integral Expressions, accuracy is 0.4425287356321839
+concept is Linear Function, accuracy is 0.375
+concept is Pythagorean theorem, accuracy is 0.2777777777777778
+concept is Geometry, accuracy is 0.15476190476190477
+concept is Multiplication of Integral Expression, accuracy is 0.3333333333333333
+concept is Intersecting Lines, accuracy is 0.13333333333333333
+concept is System of Linear Inequalities in One Variable, accuracy is 0.2916666666666667
+concept is Real Number, accuracy is 0.21621621621621623
+concept is Parallelogram, accuracy is 0.46153846153846156
+concept is Straightedge and Compass Construction, accuracy is 0.5
+concept is Axial Symmetry, accuracy is 1.0
+concept is System of Linear Inequalities in One Variable, accuracy is 0.45263157894736844
+concept is System of Linear Inequalities in One Variable, accuracy is 0.2152777777777778
+concept is Rational Number, accuracy is 0.7912772585669782
+concept is Integral Expressions, accuracy is 0.5879120879120879
+concept is Straightedge and Compass Construction, accuracy is 1.0
+concept is Rectangular Coordinate System, accuracy is 0.7272727272727273
+concept is Triangle, accuracy is 0.84375
+concept is Geometry, accuracy is 0.28735632183908044
+concept is Line Segment, accuracy is 0.4318181818181818
+concept is Intersecting Lines, accuracy is 0.08333333333333333
+concept is Parallelogram, accuracy is 0.6666666666666666
+concept is Parallelogram, accuracy is 0.9
+concept is Triangle, accuracy is 0.5
+concept is Rational Number, accuracy is 0.8361344537815126
+concept is Rectangular Coordinate System, accuracy is 0.42857142857142855
+concept is Similar Triangles, accuracy is 0.5272727272727272
+concept is Relation among Variables, accuracy is 1.0
+concept is Right Triangle, accuracy is 0.8333333333333334
+concept is Parallel Lines, accuracy is 0.5411764705882353
+concept is Linear Equations in One Variable, accuracy is 0.5888888888888889
+concept is Angle, accuracy is 0.38181818181818183
+concept is Pythagorean theorem, accuracy is 0.07692307692307693
+concept is Relation among Variables, accuracy is 1.0
+concept is Sampling and Data Analysis, accuracy is 0.3333333333333333
+concept is Congruent Triangles, accuracy is 0.42424242424242425
+concept is Rational Number, accuracy is 0.7529976019184652
+concept is Parallelogram, accuracy is 0.6
+concept is Right Triangle, accuracy is 0.6666666666666666
+concept is Integral Expressions, accuracy is 0.44
+concept is Factorization, accuracy is 0.18181818181818182
+concept is Triangle, accuracy is 0.16666666666666666
+concept is Multiplication of Integral Expression, accuracy is 0.375
+concept is Parallelogram, accuracy is 0.75
+concept is Rectangular Coordinate System, accuracy is 0.02702702702702703
+concept is Integral Expressions, accuracy is 0.7180616740088106
+concept is Linear Equations in One Variable, accuracy is 0.72
+concept is Similar Triangles, accuracy is 0.7058823529411765
+concept is Rational Number, accuracy is 0.728110599078341
+concept is Multiplication of Integral Expression, accuracy is 0.7142857142857143
+concept is Linear Equations in One Variable, accuracy is 0.7841191066997518
+concept is Linear Function, accuracy is 0.6216216216216216
+concept is Pythagorean theorem, accuracy is 0.2631578947368421
+concept is Rectangular Coordinate System, accuracy is 0.7777777777777778
+concept is System of Linear Inequalities in One Variable, accuracy is 0.375
+concept is Rectangular Coordinate System, accuracy is 0.42857142857142855
+concept is Quadratic Radical Equation, accuracy is 0.625
+concept is System of Linear Inequalities in One Variable, accuracy is 0.7157894736842105
+concept is Pythagorean theorem, accuracy is 0.058823529411764705
+concept is Quadratic Radical Equation, accuracy is 0.6666666666666666
+concept is Rational Number, accuracy is 0.8878923766816144
+concept is Linear Equations in One Variable, accuracy is 0.25136612021857924
+concept is Multiplication of Integral Expression, accuracy is 0.2727272727272727
+concept is Quadratic Radical Equation, accuracy is 0.72
+concept is Intersecting Lines, accuracy is 0.1111111111111111
+concept is Straightedge and Compass Construction, accuracy is nan
+concept is Quadratic Radical Equation, accuracy is 0.8354430379746836
+concept is Real Number, accuracy is 0.42857142857142855
+concept is Integral Expressions, accuracy is 0.5454545454545454
+concept is Axial Symmetry, accuracy is 1.0
+concept is Application of Quadratic Equation in One Variable, accuracy is 0.6131386861313869
+concept is Rectangular Coordinate System, accuracy is 0.6666666666666666
+concept is Real Number, accuracy is 0.32432432432432434
+concept is System of Linear Equations in Two Variables, accuracy is 0.09090909090909091
+concept is Sampling and Data Analysis, accuracy is 0.625
+concept is Parallelogram, accuracy is 0.6666666666666666
+concept is System of Linear Inequalities in One Variable, accuracy is 0.47474747474747475
+concept is Similar Triangles, accuracy is 0.7307692307692307
+concept is Linear Function, accuracy is 0.5
+concept is Geometry, accuracy is 0.30097087378640774
+concept is Congruent Triangles, accuracy is 0.3548387096774194
+concept is Rational Number, accuracy is 0.7672209026128266
+concept is Linear Equations in One Variable, accuracy is 0.6147308781869688
+concept is Linear Equations in One Variable, accuracy is 0.3583815028901734
+concept is Real Number, accuracy is 0.2222222222222222
+concept is Factorization, accuracy is 0.5
+concept is Inverse Proportionality Function, accuracy is 0.8082191780821918
+concept is Intersecting Lines, accuracy is 0.26666666666666666
+concept is Linear Function, accuracy is 0.5757575757575758
+concept is Integral Expressions, accuracy is 0.39545454545454545
+concept is Linear Equations in One Variable, accuracy is 0.06232294617563739
+concept is Parallelogram, accuracy is 0.4166666666666667
+concept is Multiplication of Integral Expression, accuracy is 0.0
+concept is Angle, accuracy is 0.46296296296296297
+concept is Angle, accuracy is 0.5263157894736842
+concept is Pythagorean theorem, accuracy is 0.5882352941176471
+concept is Integral Expressions, accuracy is 0.14516129032258066
+concept is Multiplication of Integral Expression, accuracy is 0.48717948717948717
+concept is Quadratic Radical Equation, accuracy is 0.8
+concept is System of Linear Inequalities in One Variable, accuracy is 0.17123287671232876
+concept is Relation among Variables, accuracy is nan
+concept is Linear Function, accuracy is 0.48484848484848486
+concept is Linear Equations in One Variable, accuracy is 0.533816425120773
+concept is Axial Symmetry, accuracy is 0.5
+concept is Angle, accuracy is 0.7096774193548387
+concept is Rectangular Coordinate System, accuracy is 0.1111111111111111
+concept is Intersecting Lines, accuracy is 0.05555555555555555
+concept is Congruent Triangles, accuracy is 0.4666666666666667
+concept is Linear Function, accuracy is 0.29411764705882354
+concept is Linear Function, accuracy is 0.5882352941176471
+concept is Congruent Triangles, accuracy is nan
+concept is Parallelogram, accuracy is 0.25
+concept is Parallelogram, accuracy is 0.4375
+concept is Linear Function, accuracy is 0.2535211267605634
+concept is Linear Equations in One Variable, accuracy is 0.3612565445026178
+concept is Factorization, accuracy is 0.45454545454545453
+concept is Real Number, accuracy is 0.1111111111111111
+concept is Geometry, accuracy is 0.22857142857142856
+concept is Linear Function, accuracy is 0.35
+concept is Pythagorean theorem, accuracy is 0.8125
+concept is Similar Triangles, accuracy is 0.9215686274509803
+concept is Multiplication of Integral Expression, accuracy is 0.5185185185185185
+concept is Isosceles Triangle, accuracy is 1.0
+concept is Congruent Triangles, accuracy is 0.6
+concept is Pythagorean theorem, accuracy is 0.15789473684210525
+concept is System of Linear Inequalities in One Variable, accuracy is 0.5591397849462365
+concept is Linear Equations in One Variable, accuracy is 0.36857142857142855
+concept is Line Segment, accuracy is 0.5813953488372093
+concept is Quadratic Radical Equation, accuracy is 0.6666666666666666
+concept is Sampling and Data Analysis, accuracy is 0.06666666666666667
+concept is Line Segment, accuracy is 0.7074468085106383
+concept is Rational Number, accuracy is 0.7289719626168224
+concept is Quadratic Radical Equation, accuracy is 0.43636363636363634
+concept is System of Linear Equations in Two Variables, accuracy is 0.6666666666666666
+concept is Application of Quadratic Equation in One Variable, accuracy is 0.7401574803149606
+concept is Parallel Lines, accuracy is 0.2777777777777778
+concept is Inverse Proportionality Function, accuracy is 0.5522388059701493
+concept is Real Number, accuracy is 0.5294117647058824
+concept is Rational Number, accuracy is 0.23548387096774193
+concept is Axial Symmetry, accuracy is 0.5
+concept is Rational Number, accuracy is 0.8256880733944955
+concept is Pythagorean theorem, accuracy is 0.3488372093023256
+concept is Angle, accuracy is 0.0625
+concept is Real Number, accuracy is 0.375
+concept is Linear Function, accuracy is 0.5263157894736842
+concept is Similar Triangles, accuracy is nan
+concept is Linear Equations in One Variable, accuracy is 0.48725212464589235
+concept is Rectangular Coordinate System, accuracy is 0.14705882352941177
+concept is Triangle, accuracy is 0.71875
+concept is Linear Function, accuracy is 0.6521739130434783
+concept is Linear Function, accuracy is 0.047619047619047616
+concept is Real Number, accuracy is 0.42857142857142855
+concept is Parallel Lines, accuracy is 0.4
+concept is System of Linear Equations in Two Variables, accuracy is 0.7833333333333333
+concept is Rectangular Coordinate System, accuracy is 0.8
+concept is Line Segment, accuracy is 0.35353535353535354
+concept is Straightedge and Compass Construction, accuracy is 1.0
+concept is System of Linear Equations in Two Variables, accuracy is 0.6333333333333333
+concept is Parallel Lines, accuracy is 0.26666666666666666
+concept is Real Number, accuracy is 0.7142857142857143
+concept is Rectangular Coordinate System, accuracy is 0.3055555555555556

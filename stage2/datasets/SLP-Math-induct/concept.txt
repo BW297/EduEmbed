@@ -1,0 +1,32 @@
+name is Angle
+name is Application of Quadratic Equation in One Variable
+name is Axial Symmetry
+name is Circle
+name is Congruent Triangles
+name is Factorization
+name is Fraction
+name is Geometry
+name is Integral Expressions
+name is Intersecting Lines
+name is Inverse Proportionality Function
+name is Isosceles Triangle
+name is Line Segment
+name is Linear Equations in One Variable
+name is Linear Function
+name is Multiplication of Integral Expression
+name is Parallel Lines
+name is Parallelogram
+name is Pythagorean theorem
+name is Quadratic Function
+name is Quadratic Radical Equation
+name is Rational Number
+name is Real Number
+name is Rectangular Coordinate System
+name is Relation among Variables
+name is Right Triangle
+name is Sampling and Data Analysis
+name is Similar Triangles
+name is Straightedge and Compass Construction
+name is System of Linear Equations in Two Variables
+name is System of Linear Inequalities in One Variable
+name is Triangle
