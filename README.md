@@ -1,3 +1,21 @@
+<div align='center'>
+<h1>Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling, WWW 2026</h1>
+<a <a href='http://www.cs.ecnu.edu.cn/'>School of Computer Science and Technology</a>, East China Normal University
+
+<br/>
+<br/>
+<a href='https://github.com/BW297/EduEmbed'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+<a href='https://github.com/BW297/EduEmbed/tree/main/paper/Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling.pdf'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a>
+
+
+
+
+<br/>
+<img src="img/Framework.svg" width="800" alt="Framework Image" />
+
+</div>
+
+------
 # EduEmbed: Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling
 
 **EduEmbed** employs a **two-stage framework** to achieve embedding enhancement for Learner-Item Cognitive Modeling. 
@@ -161,6 +179,9 @@ done
 
 ---
 
+## 📰 News 
+- [x] [2026.1.25] EduEmbed v1.0 is released.
+
 ## 📋Requirements
 
 To run the code properly, please install the following dependencies (or install them from `requirements.txt`)
@@ -181,4 +202,20 @@ tqdm==4.67.1
 transformers==4.47.1
 wandb==0.19.1
 vegas==6.2.1
+```
+
+# Reference :thought_balloon:
+
+Yuanhao Liu, Zihan Zhou, Kaiying Wu, Shuo Liu, Yiyang Huang, Jiajun Guo, Aimin Zhou, and Hong Qian. 2026. Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling. In Proceedings of the ACM Web Conference 2026 (WWW ’26), 2026
+
+## Bibtex
+
+```
+@inproceedings{Liu2026EduEmbed,
+author = {Yuanhao Liu and Zihan Zhou and Kaiying Wu and Shuo Liu and Yiyang Huang and Jiajun Guo and Aimin Zhou and Hong Qian},
+booktitle = {Proceedings of the ACM Web Conference 2026},
+title = {Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling},
+year = {2026},
+address={Dubai, United Arab Emirates}
+}
 ```
