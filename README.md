@@ -11,12 +11,11 @@
 
 
 <br/>
-<img src="img/Framework.svg" width="800" alt="Framework Image" />
+<img src="figure/frame.png" width="800" alt="Framework Image" />
 
 </div>
 
 ------
-# EduEmbed: Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling
 
 **EduEmbed** employs a **two-stage framework** to achieve embedding enhancement for Learner-Item Cognitive Modeling. 
 
