@@ -8,15 +8,15 @@
 <a href='https://github.com/BW297/EduEmbed/tree/main/paper/Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling.pdf'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a>
 
 
-
+**EduEmbed** employs a **two-stage framework** to achieve embedding enhancement for Learner-Item Cognitive Modeling. 
 
 <br/>
-<img src="figure/frame.png" width="800" alt="Framework Image" />
+<img src="figure/frame.png" width="600" alt="Framework Image" />
 
 </div>
 
 
-**EduEmbed** employs a **two-stage framework** to achieve embedding enhancement for Learner-Item Cognitive Modeling. 
+
 
 ------
 
