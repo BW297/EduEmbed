@@ -15,10 +15,10 @@
 
 </div>
 
+------
 
 **EduEmbed** employs a **two-stage framework** to achieve embedding enhancement for Learner-Item Cognitive Modeling.
 
-------
 
 ## 📌 Stage 1: Role-aware Interaction Fine-tuning (RaIF)
 
