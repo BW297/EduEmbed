@@ -1,5 +1,5 @@
 <div align='center'>
-<h1>Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling, WWW 2026</h1>
+<h2>Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling, WWW 2026</h2>
 <a <a href='http://www.cs.ecnu.edu.cn/'>School of Computer Science and Technology</a>, East China Normal University
 
 <br/>
@@ -15,7 +15,6 @@
 
 </div>
 
-------
 
 **EduEmbed** employs a **two-stage framework** to achieve embedding enhancement for Learner-Item Cognitive Modeling. 
 
