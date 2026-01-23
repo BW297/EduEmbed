@@ -84,7 +84,7 @@ Make sure these values are correctly set in your shell environment or within the
 
 In our example, the dataset is located at: `stage2/datasets`. `stage2/datasets/SLP-Math-induct` is used in inductive CD, where the ratio of existing students to new students is 1:1.
 
-##📌 Stage 2: Adapter-aware Representation Integration (AaRI)
+## 📌 Stage 2: Adapter-aware Representation Integration (AaRI)
 
 AaRI leverages a textual adapter to extract task-relevant semantic and integrates them with existing modeling paradigms to improve generalization across diverse CD tasks.
 
