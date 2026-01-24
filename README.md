@@ -7,7 +7,8 @@
 <a>Yiyang Huang</a>,
 <a href='https://scholar.google.com/citations?hl=en&user=3akz0QUAAAAJ'>Jiajun Guo</a>,
 <a href='https://scholar.google.com/citations?user=E4GQv5cAAAAJ&hl=en&oi=ao'>Aimin Zhou</a>, and
-<a href='https://faculty.ecnu.edu.cn/_s16/qh_en/main.psp'>Hong Qian*</a>. (*: Correspondence )
+<a href='https://faculty.ecnu.edu.cn/_s16/qh_en/main.psp'>Hong Qian*</a>. (*Correspondence)
+
 <a>East China Normal University</a>
 
 <br/>
