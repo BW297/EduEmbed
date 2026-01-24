@@ -12,13 +12,11 @@
 <a>East China Normal University</a>
 
 <br/>
-<br/>
 <a href='https://github.com/BW297/EduEmbed'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://github.com/BW297/EduEmbed/tree/main/paper/Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling.pdf'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a>
 
 
- 
-
+<br/>
 <br/>
 <img src="figure/frame.png" width="700" alt="Framework Image" />
 
