@@ -16,7 +16,6 @@
 
 
 <br/>
-<br/>
 <img src="figure/frame.png" width="700" alt="Framework Image" />
 
 </div>
