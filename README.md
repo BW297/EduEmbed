@@ -13,7 +13,7 @@
 <a>Shanghai Innovation Institute</a>
 
 <a href='https://github.com/BW297/EduEmbed'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-<a href='https://github.com/BW297/EduEmbed/tree/main/paper/Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling.pdf'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a>
+<a href='https://github.com/BW297/EduEmbed/tree/main/paper/EduEmbed_WWW26.pdf'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a>
 
 
 <br/>
