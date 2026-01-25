@@ -9,8 +9,7 @@
 <a>Aimin Zhou</a> and
 <a>Hong Qian*</a> (*Correspondence)
 
-<a>East China Normal University</a>
-
+<a>East China Normal University</a><br>
 <a>Shanghai Innovation Institute</a>
 
 <a href='https://github.com/BW297/EduEmbed'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
