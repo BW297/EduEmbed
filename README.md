@@ -3,13 +3,14 @@
 <a>Yuanhao Liu</a>,
 <a>Zihan Zhou</a>,
 <a>Kaiying Wu</a>,
-<a href='https://scholar.google.com/citations?user=sRoqbLwAAAAJ&hl=en'>Shuo Liu</a>,
+<a>Shuo Liu</a>,
 <a>Yiyang Huang</a>,
-<a href='https://scholar.google.com/citations?hl=en&user=3akz0QUAAAAJ'>Jiajun Guo</a>,
-<a href='https://scholar.google.com/citations?user=E4GQv5cAAAAJ&hl=en&oi=ao'>Aimin Zhou</a> and
-<a href='https://faculty.ecnu.edu.cn/_s16/qh_en/main.psp'>Hong Qian*</a>. (*Correspondence)
+<a>Jiajun Guo</a>,
+<a>Aimin Zhou</a> and
+<a>Hong Qian*</a> (*Correspondence)
 
-<a>East China Normal University, Shanghai Innovation Institute</a>
+<a>East China Normal University</a>
+<a>Shanghai Innovation Institute</a>
 
 <a href='https://github.com/BW297/EduEmbed'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://github.com/BW297/EduEmbed/tree/main/paper/Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling.pdf'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a>
@@ -209,14 +210,14 @@ vegas==6.2.1
 
 # Reference :thought_balloon:
 
-Yuanhao Liu, Zihan Zhou, Kaiying Wu, Shuo Liu, Yiyang Huang, Jiajun Guo, Aimin Zhou, and Hong Qian. 2026. Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling. In Proceedings of the ACM Web Conference 2026 (WWW ’26), 2026
+Yuanhao Liu, Zihan Zhou, Kaiying Wu, Shuo Liu, Yiyang Huang, Jiajun Guo, Aimin Zhou, and Hong Qian. Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling. In Proceedings of the 2026 ACM Web Conference (WWW’26).
 
 ## Bibtex
 
 ```
 @inproceedings{Liu2026EduEmbed,
 author = {Yuanhao Liu and Zihan Zhou and Kaiying Wu and Shuo Liu and Yiyang Huang and Jiajun Guo and Aimin Zhou and Hong Qian},
-booktitle = {Proceedings of the ACM Web Conference 2026},
+booktitle = {Proceedings of the 2026 ACM Web Conference},
 title = {Embedding Enhancement via Fine-Tuned Language Models for Learner-Item Cognitive Modeling},
 year = {2026},
 address={Dubai, United Arab Emirates}
