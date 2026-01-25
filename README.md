@@ -6,7 +6,7 @@
 <a>Shuo Liu</a>,
 <a>Yiyang Huang</a>,
 <a>Jiajun Guo</a>,
-<a>Aimin Zhou</a> and
+<a>Aimin Zhou</a>, and
 <a>Hong Qian*</a> (*Correspondence)
 
 <a>East China Normal University</a><br>
